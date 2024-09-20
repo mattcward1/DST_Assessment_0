@@ -1,10 +1,8 @@
 # DST Assessment 0
 
 ## Project Group 1
-Matthew Ward
-
-
-Equal equity.
+* Matthew Ward
+* Equal equity.
 
 ## Reading Order
 
