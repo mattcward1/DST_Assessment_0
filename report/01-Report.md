@@ -4,4 +4,4 @@ This is the project report
 
 ## Section 1
 
-This pprroject needs section 1
+This project needs section 1
